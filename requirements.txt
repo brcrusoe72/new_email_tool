@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.3
+google_api_python_client==2.129.0
+google_auth_oauthlib==1.2.0
+openai==1.30.3
+protobuf==5.27.0
+psutil==5.9.8
+python-dotenv==1.0.1
+PyYAML==6.0.1
+PyYAML==6.0.1
+Requests==2.32.2
+termcolor==2.4.0

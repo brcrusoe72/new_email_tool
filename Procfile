@@ -1,0 +1,1 @@
+worker: python email_handler_scr.py
